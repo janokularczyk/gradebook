@@ -1,0 +1,15 @@
+/Users/janokularczyk/VSCodeProjects/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook
+/Users/janokularczyk/VSCodeProjects/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.deps.json
+/Users/janokularczyk/VSCodeProjects/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.runtimeconfig.json
+/Users/janokularczyk/VSCodeProjects/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.dll
+/Users/janokularczyk/VSCodeProjects/gradebook/src/GradeBook/bin/Debug/net6.0/GradeBook.pdb
+/Users/janokularczyk/VSCodeProjects/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.csproj.AssemblyReference.cache
+/Users/janokularczyk/VSCodeProjects/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janokularczyk/VSCodeProjects/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.AssemblyInfoInputs.cache
+/Users/janokularczyk/VSCodeProjects/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.AssemblyInfo.cs
+/Users/janokularczyk/VSCodeProjects/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/janokularczyk/VSCodeProjects/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.dll
+/Users/janokularczyk/VSCodeProjects/gradebook/src/GradeBook/obj/Debug/net6.0/refint/GradeBook.dll
+/Users/janokularczyk/VSCodeProjects/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.pdb
+/Users/janokularczyk/VSCodeProjects/gradebook/src/GradeBook/obj/Debug/net6.0/GradeBook.genruntimeconfig.cache
+/Users/janokularczyk/VSCodeProjects/gradebook/src/GradeBook/obj/Debug/net6.0/ref/GradeBook.dll
