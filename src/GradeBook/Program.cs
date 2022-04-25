@@ -9,6 +9,7 @@ namespace GradeBook
         {
             var book = new InMemoryBook("My Grade Book");
             book.GradeAdded += OnGradeAdded;
+            
             EnterGrades(book);
 
             var stats = book.GetStatistics();
@@ -21,7 +22,7 @@ namespace GradeBook
             Console.WriteLine($"The letter grade is {stats.Letter}");
         }
 
-        private static void EnterGrades(Book book)
+        private static void EnterGrades(IBook book)
         {
             while (true)
             {
